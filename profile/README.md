@@ -1,3 +1,3 @@
-## QuDOS - Quantum Dynamics, Optics and Simulation group
+## QuDOS - Quantum Discovery Of Science group
 
-Theoretical quantum optics and computing at the University of Exeter, UK
+Our group develops quantum algorithms and theoretical models for a range of physical systems and applications. We are part of the Sheffield Quantum Centre, University of Sheffield, UK.
